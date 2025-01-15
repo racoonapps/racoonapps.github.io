@@ -1,0 +1,8 @@
+.content a {
+  color: cyan;
+  border-bottom: 1px solid cyan;
+}
+
+footer a, footer a:visited {
+  color: cyan;
+}

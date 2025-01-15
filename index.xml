@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>racoon apps</title>
+    <link>https://www.racoonapps.de/</link>
+    <description>Recent content on racoon apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.racoonapps.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://www.racoonapps.de/dsgvo/</link>
+      <pubDate>Tue, 08 Feb 2022 08:20:37 +0100</pubDate>
+      
+      <guid>https://www.racoonapps.de/dsgvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://www.racoonapps.de/imprint/</link>
+      <pubDate>Tue, 08 Feb 2022 08:20:37 +0100</pubDate>
+      
+      <guid>https://www.racoonapps.de/imprint/</guid>
+      <description>Angaben gemäß § 5 TMG Tobias Reike
+Alte Poststr. 124
+33161 Hövelhof
+Kontakt Telefon: 05207/9546294
+E-Mail: info@racoonapps.de
+Redaktionell verantwortlich Tobias Reike
+Alte Poststr. 124
+33161 Hövelhof
+Verbraucher­streit­beilegung/Universal­schlichtungs­stelle Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+Quelle: eRecht24</description>
+    </item>
+    
+  </channel>
+</rss>
